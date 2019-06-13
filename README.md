@@ -1,4 +1,5 @@
 # hello-world
 My first repository
-Hi People!
-I don´t have idea what I am doing!! Hope I will undestand soon...
+
+Hola
+Pretendo hacer una web donde crear un proyecto para la ayuda al estudio para una generación descentrada por el desconcierto emocional que ha generado el establecimiento de las nuevas tecnologías. 
